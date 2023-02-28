@@ -13,5 +13,5 @@ Investigates near-Earth asteroid capture using a multi-vehicle strategy
 - Seminar talk at the Astronomical Institute of the Romanian Academy in Bucharest, Romania
 
 **Visualise Your Thesis:**<br>
-Runner-up for University of Glasgow Visualise Your Thesis Competition 2021 making a one-minute video emphasising the importance of my research to a non-specialist audience<br>
+Runner-up for University of Glasgow Visualise Your Thesis Competition 2021 for making a one-minute video emphasising the importance of this research to a non-specialist audience<br>
 [Link to video](https://youtu.be/TqYgIMJ5erw)
