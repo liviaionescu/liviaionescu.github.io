@@ -8,9 +8,9 @@ Investigates near-Earth asteroid capture using a multi-vehicle strategy
 - L. Ionescu, C. R. McInnes and M. Ceriotti, “Use of powered Earth fly-bys to enhance mass retrieval for a two-spacecraft asteroid capture strategy”, proceedings of the AAS/AIAA Astrodynamics Specialist Conference, Charlotte, NC, USA, August 7-11, 2022
 
 **Talks:**
-- AAS/AIAA Astrodynamics Specialist Conference, 7-11 August 2022 in Charlotte, North Carolina
-- Stardust Conference 2 at ESA ESTEC, 7-11 November 2022 in Noordwijk, The Netherlands
 - Seminar talk "10 years since Cheliabinsk" on 15 February 2023 at the Astronomical Institute of the Romanian Academy in Bucharest, Romania
+- Stardust Conference 2 at ESA ESTEC, 7-11 November 2022 in Noordwijk, The Netherlands
+- AAS/AIAA Astrodynamics Specialist Conference, 7-11 August 2022 in Charlotte, North Carolina
 
 **Visualise Your Thesis:**<br>
 Runner-up for University of Glasgow Visualise Your Thesis Competition 2021 for making a one-minute video emphasising the importance of this research to a non-specialist audience
