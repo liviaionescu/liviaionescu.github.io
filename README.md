@@ -1,8 +1,5 @@
 # Livia Ionescu
-
-Ph.D. student in Astrodynamics at the University of Glasgow.
-
-Subject: Near-Earth asteroid capture using a multi-vehicle strategy
+Investigating near-Earth asteroid capture using a multi-vehicle strategy
 
 **Publications:**
 - [L. Ionescu, C. R. McInnes, and M. Ceriotti, “A multiple-vehicle strategy for near-Earth asteroid capture,” Acta Astronautica, Vol. 199, Oct. 2022, pp. 71–85, 10.1016/j.actaastro.2022.07.004.](https://doi.org/10.1016/j.actaastro.2022.07.004)
