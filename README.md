@@ -1,7 +1,5 @@
 # Livia Ionescu
 Ph.D. student in Astrodynamics at the University of Glasgow
-
- [Linkedin](linkedin.com/in/livia-ionescu)
  
 Investigating near-Earth asteroid capture using a multi-vehicle strategy
 
