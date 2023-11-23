@@ -15,7 +15,7 @@ Investigates near-Earth asteroid capture using a multi-vehicle strategy
 - AAS/AIAA Astrodynamics Specialist Conference, 7-11 August 2022 in Charlotte, North Carolina
 
 **Courses:**
-- ESA's Academy Space Systems Engineering Training Course, January 31 to February 3 2023
+- ESA's Academy Space Systems Engineering Training Course, 31 Jan - 3 Feb 2023
 
 **Visualise Your Thesis:**<br>
 Runner-up for University of Glasgow Visualise Your Thesis Competition 2021 for making a one-minute video emphasising the importance of this research to a non-specialist audience
